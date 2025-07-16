@@ -1,0 +1,26 @@
+# 🎯 Student Score Predictor using Linear Regression
+
+This project uses a *simple machine learning model* to predict student scores based on the number of hours they studied. It's built using *Python, **pandas, **scikit-learn, and **matplotlib*.
+
+## 📊 Problem Statement
+Given a dataset containing student study hours and corresponding exam scores, build a model that predicts *score based on study time*.
+
+## 💡 Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- scikit-learn
+- Google Colab (or Kaggle)
+
+## 📁 Dataset
+- [student_scores.csv](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
+- Contains two columns: Hours and Scores
+
+## 🔍 Steps Performed
+1. Loaded the dataset using pandas
+2. Visualized the data using matplotlib (scatter plot)
+3. Trained a Linear Regression model using scikit-learn
+4. Predicted the score for a student who studied 9.25 hours
+5. Evaluated and visualized the prediction
+
+## 🚀 Output Example
